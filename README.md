@@ -19,7 +19,7 @@
 
 ### 💡 Trabajo seleccionado
 
-📦 **[alegra-api-client](https://github.com/garydormoi/alegra-api-client)** — Cliente tipado en TypeScript para la API de **Alegra**: autenticación, paginación y manejo de *rate limits*. Documentación en español.
+📦 **[alegra-api-client](https://github.com/garydormoi/alegra-api-client)** [![npm](https://img.shields.io/npm/v/alegra-api-client.svg)](https://www.npmjs.com/package/alegra-api-client) — Cliente tipado en TypeScript para la API de **Alegra**: autenticación, paginación y manejo de *rate limits*. Documentación en español.
 
 ### 🧰 Stack
 
