@@ -7,7 +7,7 @@
 
 ---
 
-👋 Founder que programa. **15 años** dirigiendo operaciones logísticas internacionales (**Panamá · EE. UU.**) y hoy construyendo las herramientas de las que dependen, más un par de productos propios.
+👋 Founder que programa con Ai. **15 años** dirigiendo operaciones logísticas internacionales (**Panamá · EE. UU.**) y hoy construyendo las herramientas de las que dependen, más un par de productos propios.
 
 ### 🏢 Empresas y proyectos
 
